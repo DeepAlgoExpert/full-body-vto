@@ -1,0 +1,1 @@
+from Self-Correction-Human-Parsing import simple_extractor

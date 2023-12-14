@@ -1,0 +1,1 @@
+python main.py --category dresses --image ./images/humans/dress4_0.jpg --cloth ./images/dresses/13_1.jpg

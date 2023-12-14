@@ -1,0 +1,1 @@
+python simple_extractor.py --dataset 'atr' --model-restore 'checkpoints/final.pth' --input-dir '../../input/lower_body/images/' --output-dir '../../input/lower_body/label_maps/'

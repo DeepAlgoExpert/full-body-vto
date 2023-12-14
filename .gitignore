@@ -1,0 +1,3 @@
+*.zip
+/preprocess/pytorch-openpose/model/
+/preprocess/Self-Correction-Human-Parsing/checkpoints/
